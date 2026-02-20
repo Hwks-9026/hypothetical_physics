@@ -1,3 +1,14 @@
 # Summary
-
-- [Chapter 1](./chapter_1.md)
+- [Introduction](./introduction.md) 
+- [Chapter 1:  The Nature of Time](./chapter_1.md)
+- [Chapter 2:  Classical Mechanics](./chapter_2.md)
+- [Chapter 3:  Contemporary Mechanics](./chapter_3.md)
+- [Chapter 4:  Astrology](./chapter_4.md)
+- [Chapter 5:  Zarmelo-Russel Set Theory](./chapter_5.md)
+- [Chapter 6:  Godel and the Meaning of Life](./chapter_6.md)
+- [Chapter 7:  Electricity & Magnetism](./chapter_7.md)
+- [Chapter 8:  Astronomy](./chapter_8.md)
+- [Chapter 9:  Alchemy](./chapter_9.md)
+- [Chapter 10: Nuclear Physics](./chapter_10.md)
+- [Chapter 11: Not Rocket Science](./chapter_11.md)
+- [Chapter 12: Rocket Science](./chapter_12.md)
