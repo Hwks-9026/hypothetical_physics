@@ -1,7 +1,8 @@
 # Welcome to hypothetical physics.
-you will need to install both mdbook and mdbook-katex to compile the book.
-use the following commands:
+you will need to install mdbook to compile the book.
+use the following command:
 ```bash
 cargo install mdbook
-cargo install mdbook-katex
 ```
+The book is also available at:
+https://hwks-9026.github.io/hypothetical_physics/
