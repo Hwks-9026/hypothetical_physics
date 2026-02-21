@@ -3,3 +3,6 @@ title = "Introduction to Hypothetical Physics"
 authors = ["Victor Vector-Vittore"]
 language = "en"
 
+[output.html]
+no-section-label = true
+additional-css = ["theme/variables.css"]

@@ -1,0 +1,65 @@
+:root {
+    /* Gruvbox Palette */
+    --bg0: #282828;
+    --bg1: #3c3836;
+    --fg0: #fbf1c7;
+    --fg1: #ebdbb2;
+    --gray: #928374;
+    --yellow: #fabd2f;
+    --orange: #fe8019;
+    --aqua: #8ec07c;
+
+    /* mdBook Variable Overrides */
+    --sidebar-bg: var(--bg1);
+    --sidebar-fg: var(--fg1);
+    --sidebar-active: var(--yellow);
+    --sidebar-spacer: var(--gray);
+    
+    --bg: var(--bg0);
+    --fg: var(--fg1);
+    
+    --link-reverse: var(--aqua);
+    --content-max-width: 750px;
+}
+
+/* Fix for links and headers */
+.content main a { color: var(--aqua); }
+.content main a:visited { color: var(--aqua); }
+h1, h2, h3, h4, h5 { color: var(--yellow); }
+
+/* Sidebar active link styling */
+.sidebar .active { color: var(--yellow) !important; }
+
+/* Gruvbox Light Overrides */
+.light {
+    /* Gruvbox Light Palette */
+    --bg0_h: #f9f5d7;
+    --bg0: #fbf1c7;
+    --bg1: #ebdbb2;
+    --fg0: #282828;
+    --fg1: #3c3836;
+    --gray: #928374;
+    --red: #9d0006;
+    --green: #79740e;
+    --yellow: #b57614;
+    --blue: #076678;
+    --orange: #af3a03;
+
+    /* mdBook Variables Mapping */
+    --bg: var(--bg0_h);
+    --fg: var(--fg1);
+    
+    --sidebar-bg: var(--bg1);
+    --sidebar-fg: var(--fg1);
+    --sidebar-active: var(--orange);
+    --sidebar-spacer: var(--gray);
+
+    --link-reverse: var(--blue);
+    --inline-code-color: var(--green);
+}
+
+/* Specific UI adjustments for Light mode */
+.light h1, .light h2, .light h3, .light h4 { color: var(--fg0); border-bottom-color: var(--bg1); }
+.light .content main a { color: var(--blue); }
+.light .content main a:visited { color: var(--blue); }
+.light .sidebar .active { color: var(--orange) !important; }
