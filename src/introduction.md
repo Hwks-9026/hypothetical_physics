@@ -25,7 +25,7 @@ Next, the mechanics of physical objects like boxes, pulleys with mass, and massl
 
 [Chapter 4](./chapter_4.md) covers astrology, fundamental to the rest of the field. Without Astrology, nobody would have any idea what their horoscope was, or which subject to explore the hypotheticals of next. This is not, however, a vibes based process. There is rigor involved!
 
-[Chapter 5](./chapter_5.md) and [Chapter 6](./chapter_6.md) both cover mathematical constructs that will be useful in the rest of the book, such as set theory, existential dread, and the undecidability of whether or not Boltzmann even had a brain. 
+[Chapter 5](./chapter_5.md) and [Chapter 6](./chapter_6.md) both cover mathematical constructs that will not be useful in the rest of the book, such as set theory, existential dread, and the undecidability of whether or not Boltzmann even had a brain. 
 
 [Chapter 7](./chapter_7.md) encapsulates the ideas behind electricity, magnetism, and their shocking similarities despite being completely unrelated phenomena.
 
