@@ -2,7 +2,7 @@
 
 *Please skip this chapter unless you understand set notation*
 
-## CHAPTER 5.1 - Axioms
+## Chapter 5.1 - Axioms
 The axioms of Zarmelo-Russel Set Theory are as follows:
 1. **Extensionality.** If $X$ and $Y$ have the same elements, then $X = Y$.
 

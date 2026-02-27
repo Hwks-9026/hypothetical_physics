@@ -4,7 +4,7 @@ This chapter covers the study of Magnetism and Electricity, two very interesting
 
 We will start by covering how electricity is manipulated, and only then will we actually discuss how it works under the hood.
 ___
-## CHAPTER 7.1 - Circuit-Analysis
+## Chapter 7.1 - Circuit-Analysis
 
 Circuit-Analysis is a fascinating field of study first pioneered by Johnson Circuit and Johnson Analysis, who are often referred to as Johnson and Johnson ( J & J for short). Both scientists were also highly influential in the study of alternating current, so the symbol for it was renamed to *j* in their honor. Our current field of study, direct current, was invented before these changes occurred so it is common for literature to continue to use *i* for current instead of *j* (some purists have decided on *k* as a neutral middle ground).
 
